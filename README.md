@@ -7,7 +7,6 @@ Pre requisites
  
    https://botwiki.org/resource/tutorial/how-to-create-a-twitter-app/
    
-   Click here
 
  - Installing required libraries 
 
