@@ -20,3 +20,5 @@ Pre requisites
 
       pip install -U textblob
       python -m textblob.download_corpora
+      
+  After completing above steps, update the keys in sentiment_analysis__twitter_textblob.py 
